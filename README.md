@@ -10,7 +10,7 @@ My next experiment is:
 - [X] make chances to the develop branch
 - [X] add a feature branch
 - [X] make changes to the feature branch
-- [ ] merge the feature brach into the develop branch
+- [X] merge the feature brach into the develop branch
 - [ ] merge the develop branch into the master branch, with a release number tag.
 
 Sounds simple? not to me ;) 
