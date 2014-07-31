@@ -6,8 +6,8 @@ Where I experiment and learn how to use Github as a management tool.
 This is my experiment. Thanky you :) 
 
 My next experiment is:
-- [ ] make a develop branch
-- [ ] make chances to the develop branch
+- [X] make a develop branch
+- [X] make chances to the develop branch
 - [ ] add a feature branch
 - [ ] make changes to the feature branch
 - [ ] merge the feature brach into the develop branch
